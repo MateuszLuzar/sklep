@@ -11,7 +11,9 @@ import model.Szkolenia;
 public class Menu {
 
 	public void wyswietlMenu() {
-		
+		//kjkjkj
+		//kjkjkjkk
+		//klklklklk
 		
 		
 		Sklep sklep = new Sklep("www.sklep.com");
